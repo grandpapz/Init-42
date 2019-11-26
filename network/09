@@ -1,0 +1,5 @@
+#Find the external IP of 42.fr
+#Command: host 42.fr 8.8.8.8 | grep 'has address ' | awk '{print $4}'
+
+163.172.250.12
+163.172.250.13 

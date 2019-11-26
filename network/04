@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Identifiy the default gateway in the routing table
+
+netstat -nr | grep -A 2 Internet: | grep default
+
+#route get default | grep 'gateway' | awk '{print $2}'

@@ -1,0 +1,5 @@
+#В каком файле можно найти версию установленной Дебиан?
+
+/etc/debian_version
+
+#cat /etc/debian_version

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#Команда, которая перезапускает SSH
+
+service ssh restart
