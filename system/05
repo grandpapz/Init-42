@@ -2,4 +2,4 @@
 
 #Команда, которая опрделяет состояние службы SSH
 
-service ssh status
+sudo service ssh status
