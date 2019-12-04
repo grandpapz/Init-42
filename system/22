@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo useradd new_username

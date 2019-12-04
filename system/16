@@ -1,0 +1,7 @@
+
+cron
+
+#cat /etc/crone
+#cat /etc/crontab
+#crone.hourly
+#Типа TaskScheduller на Винде

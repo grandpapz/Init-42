@@ -1,0 +1,6 @@
+#!/bin/bash
+
+dpkg --list
+
+#или по ущербнее:
+#apt list --installed

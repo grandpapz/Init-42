@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+#для графического интерфейса:
+su -l new_user 
+#для подключения по ssh:
+#ssh user@host

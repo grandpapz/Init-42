@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo systemctl list-unit-files | grep enabled | grep service
+
+#смотрит на автозапуск на уровне ядра - соответственно эти же сервисы запускаются с запуском системы
