@@ -1,5 +1,4 @@
 #!/bin/bash 
 
-USER = newuser
-pkill -u $USER
-sudo userdell -f newuser
+pkill -u new_username
+sudo userdell -f new_username
