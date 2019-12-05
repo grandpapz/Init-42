@@ -1,4 +1,4 @@
 #!/bin/bash 
 
 pkill -u new_username
-sudo userdell -f new_username
+sudo userdel -f new_username
